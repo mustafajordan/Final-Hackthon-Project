@@ -1,0 +1,1 @@
+const String base_url ="https://finaldjango-api.herokuapp.com/api/v1/";
